@@ -1,0 +1,1 @@
+A simple module to hold all of my FoundryVTT homebrew creations or automations.

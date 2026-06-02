@@ -18,11 +18,13 @@
   },
   "packFolders": [
     {
-        "name":"OP's Homebrew",
-        "sorting": "a",
-        "packs": [
-            "op-homebrew-items"
-        ]
+      "name": "OP's Homebrew",
+      "sorting": "a",
+      "packs": [
+        "op-homebrew-items"
+      ],
+      "color": null,
+      "folders": []
     }
   ],
   "packs": [
@@ -38,5 +40,6 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/i2amroy/op-homebrew-creations/"
 }
