@@ -1,0 +1,42 @@
+{
+  "id": "op-homebrew-creations",
+  "title": "OtherPlayer's Homebrew",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>A collection of all of OtherPlayer's created items and homebrew.</p>",
+  "authors": [
+    {
+      "name": "OtherPlayers",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packFolders": [
+    {
+        "name":"OP's Homebrew",
+        "sorting": "a",
+        "packs": [
+            "op-homebrew-items"
+        ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "op-homebrew-items",
+      "label": "OP's Homebrew Items",
+      "path": "packs/op-homebrew-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
