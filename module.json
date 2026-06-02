@@ -41,5 +41,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/i2amroy/op-homebrew-creations/"
+  "url": "https://github.com/i2amroy/op-homebrew-creations/",
+  "manifest": "https://raw.githubusercontent.com/i2amroy/op-homebrew-creations/refs/heads/main/module.json",
+  "download": "https://github.com/i2amroy/op-homebrew-creations/archive/refs/heads/main.zip"
 }
