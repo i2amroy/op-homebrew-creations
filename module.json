@@ -1,7 +1,7 @@
 {
   "id": "op-homebrew-creations",
   "title": "OtherPlayer's Homebrew",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
